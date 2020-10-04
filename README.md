@@ -13,4 +13,4 @@ Requirements
 
 How the idea was created
 The current project was developped in the fram of "The Port - Hackathon at Cern". This event brings together NGOs and intrested individuals to work
-towards a viable solution to real problems.
+towards a viable solution to real problem.
