@@ -8,7 +8,7 @@ This is a first trial of collecting images and datasets for regions contaminated
 Clearing an area from weapon contamination is a tedious and dangerous task.
 With the latest advancement in drone, remote sensing technology and AI this is a call for help to clear out regional areas from explosives.
 
-## Requirements
+## Requirements and format
 
 
 ## How the idea was created
