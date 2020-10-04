@@ -1,0 +1,63 @@
+<PAMDataset>
+  <Metadata domain="xml:XMP">
+    <MDI key="&lt;?xpacket begin">"" id="W5M0MpCehiHzreSzNTczkc9d"?&gt;
+&lt;rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+&lt;rdf:Description rdf:about=""
+xmlns:Camera="http://pix4d.com/camera/1.0/"
+xmlns:FLIR="http://ns.flir.com/xmp/1.0/"
+&lt;Camera:BandName&gt;
+&lt;rdf:Seq&gt;
+&lt;rdf:li&gt;LWIR&lt;/rdf:li&gt;
+&lt;/rdf:Seq&gt;
+&lt;/Camera:BandName&gt;
+&lt;Camera:CentralWavelength&gt;
+&lt;rdf:Seq&gt;
+&lt;rdf:li&gt;10000&lt;/rdf:li&gt;
+&lt;/rdf:Seq&gt;
+&lt;/Camera:CentralWavelength&gt;
+&lt;Camera:WavelengthFWHM&gt;
+&lt;rdf:Seq&gt;
+&lt;rdf:li&gt;4500&lt;/rdf:li&gt;
+&lt;/rdf:Seq&gt;
+&lt;/Camera:WavelengthFWHM&gt;
+&lt;Camera:TlinearGain&gt;0.00&lt;/Camera:TlinearGain&gt;
+&lt;Camera:Yaw&gt;0/100&lt;/Camera:Yaw&gt;
+&lt;Camera:Pitch&gt;0/100&lt;/Camera:Pitch&gt;
+&lt;Camera:Roll&gt;0/100&lt;/Camera:Roll&gt;
+&lt;Camera:GPSXYAccuracy&gt;0.00&lt;/Camera:GPSXYAccuracy&gt;
+&lt;Camera:GPSZAccuracy&gt;0.00&lt;/Camera:GPSZAccuracy&gt;
+&lt;Camera:GyroRate&gt;0.00&lt;/Camera:GyroRate&gt;
+&lt;Camera:DetectorBitDepth&gt;16&lt;/Camera:DetectorBitDepth&gt;
+&lt;Camera:IsNormalized&gt;0&lt;/Camera:IsNormalized&gt;
+&lt;FLIR:ImageOffsetX&gt;0&lt;/FLIR:ImageOffsetX&gt;
+&lt;FLIR:ImageOffsetY&gt;0&lt;/FLIR:ImageOffsetY&gt;
+&lt;FLIR:ImageValidStartX&gt;0&lt;/FLIR:ImageValidStartX&gt;
+&lt;FLIR:ImageValidEndX&gt;639&lt;/FLIR:ImageValidEndX&gt;
+&lt;FLIR:ImageValidStartY&gt;0&lt;/FLIR:ImageValidStartY&gt;
+&lt;FLIR:ImageValidEndY&gt;511&lt;/FLIR:ImageValidEndY&gt;
+&lt;FLIR:ImageUpsampleMode&gt;2&lt;/FLIR:ImageUpsampleMode&gt;
+&lt;FLIR:MAVVersionID&gt;0.3.0.0&lt;/FLIR:MAVVersionID&gt;
+&lt;FLIR:MAVComponentID&gt;100&lt;/FLIR:MAVComponentID&gt;
+&lt;FLIR:MAVRelativeAltitude&gt;0/1000&lt;/FLIR:MAVRelativeAltitude&gt;
+&lt;FLIR:MAVRateOfClimbRef&gt;M&lt;/FLIR:MAVRateOfClimbRef&gt;
+&lt;FLIR:MAVRateOfClimb&gt;0/1000&lt;/FLIR:MAVRateOfClimb&gt;
+&lt;FLIR:MAVYaw&gt;0/100&lt;/FLIR:MAVYaw&gt;
+&lt;FLIR:MAVPitch&gt;0/100&lt;/FLIR:MAVPitch&gt;
+&lt;FLIR:MAVRoll&gt;0/100&lt;/FLIR:MAVRoll&gt;
+&lt;FLIR:MAVYawRate&gt;0/100&lt;/FLIR:MAVYawRate&gt;
+&lt;FLIR:MAVPitchRate&gt;0/100&lt;/FLIR:MAVPitchRate&gt;
+&lt;FLIR:MAVRollRate&gt;0/100&lt;/FLIR:MAVRollRate&gt;
+&lt;/rdf:Description&gt;
+&lt;/rdf:RDF&gt;
+&lt;?xpacket end="w"?&gt;</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">9299</MDI>
+      <MDI key="STATISTICS_MEAN">8562.1314880371</MDI>
+      <MDI key="STATISTICS_MINIMUM">8265</MDI>
+      <MDI key="STATISTICS_STDDEV">146.68153251489</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
